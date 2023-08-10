@@ -4,3 +4,5 @@ scikit-learn
 keras-models
 pandas
 tensorflow
+optimasi
+matplotlib
