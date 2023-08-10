@@ -6,3 +6,4 @@ pandas
 tensorflow
 optimasi
 matplotlib
+optimasi_func
