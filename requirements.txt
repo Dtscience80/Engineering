@@ -7,3 +7,4 @@ tensorflow
 optimasi
 matplotlib
 optimasi_func
+matplotlib.pyplot
